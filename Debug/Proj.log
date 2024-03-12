@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Barna_Alin_Vasile_Proiect.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Meshes.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(134,15): warning C4101: 'pD3DXMtrlBuffer': unreferenced local variable
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(418,33): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(422,33): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(426,33): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(430,33): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(433,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(437,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(441,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(445,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(449,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(453,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(470,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Meshes.cpp(475,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Meshes.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Proj.vcxproj -> C:\Users\HOME\Desktop\Proiect Sisteme multimedia\Debug\Proj.exe
